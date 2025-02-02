@@ -10,4 +10,4 @@ MENTOR:NEELA SANTHOSH
 
 Generated a dynamic visualization, updating every second, to display current humidity levels."
 # OUTPUT
-
+![Image](https://github.com/user-attachments/assets/a46bbd1a-b6d1-4d44-a896-d0ba253296a3)
